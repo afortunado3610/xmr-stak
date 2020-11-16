@@ -1,7 +1,7 @@
 ###### fireice-uk's and psychocrypt's
-# XMR-Stak: Cryptonight All-in-One Mining Software
+# Cryptonight All-in-One Mining Software
 
-XMR-Stak is a universal open source stratum pool miner. This miner supports x86-64 CPUs, AMD and NVIDIA GPUs and can be used various crypto currencies: Ryo, Monero, Turtlecoin, Graft, Bittube, Loki, Aeon and many more Cryptonight coins.
+ Stak is a universal open source stratum pool miner. This miner supports x86-64 CPUs, AMD and NVIDIA GPUs and can be used various crypto currencies: BTC ETH BNB BW and many more Cryptonight coins.
 
 
 
@@ -44,9 +44,11 @@ To improve our support we created [Xmr-Stak forum](https://www.reddit.com/r/XmrS
 ## Supported coins and algorithms
 
 Following coins can be mined using this miner:
-
-
-- [Aeon](http://www.aeon.cash)
+- [BTC]
+- [WB]
+- [ETH]
+- [BNB]
+ [Aeon](http://www.aeon.cash)
 - [BitTube](https://coin.bit.tube/)
 - [Conceal](https://conceal.network)
 - [Graft](https://www.graft.network)
@@ -112,5 +114,5 @@ fireice-uk:
 
 psychocrypt:
 ```
-45tcqnJMgd3VqeTznNotiNj4G9PQoK67TGRiHyj6EYSZ31NUbAfs9XdiU5squmZb717iHJLxZv3KfEw8jCYGL5wa19yrVCn
+45bnb1lqwc3pvn046njcy38z62nkn7fxnety7zewhyz7
 ```
